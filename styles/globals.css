@@ -7,10 +7,17 @@ body {
 }
 
 a {
-  color: inherit;
+  color: #0070f3;
   text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }
 
 * {
   box-sizing: border-box;
+  text-decoration: none;
+}
+img{max-width:100%;
+  display:block;
 }
