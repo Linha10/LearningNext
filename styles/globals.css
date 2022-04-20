@@ -17,6 +17,7 @@ a:hover {
 * {
   box-sizing: border-box;
   text-decoration: none;
+  background-color: rgb(235, 235, 235);
 }
 img{max-width:100%;
   display:block;
